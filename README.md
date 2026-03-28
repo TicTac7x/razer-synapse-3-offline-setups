@@ -4,7 +4,7 @@ Open `RazerInstaller.exe` without any Razer devices connected, this lets you ins
 # Synapse 3 offline installation
 Install the setups in following order:
 
-1. [`1660119346OLtIZnKORazerSynapseDependenciesSetup_v3.7.0830.1.exe`](./1660119346OLtIZnKORazerSynapseDependenciesSetup_v3.7.0830.1.exe)
+1. `1660119346OLtIZnKORazerSynapseDependenciesSetup_v3.7.0830.1.exe`
 2. `1769761272w10347UZRazerCentral_v7.21.0.1154.exe`
 3. `1729824018fkSwByXhRzGMS_Setup_V2.4.160.155.exe`
 4. `1721955728BzvfcfqXRazerVideoPlayerSetup_v3.9.0806.072600.exe`
@@ -48,30 +48,30 @@ Install the setups in following order:
 
 # Devices
 ### Viper V3 Pro - 193
-`1731308897L0Tq9lZhRazerWilmaT1Setup_v3.9.1130.111111.exe`
+[`1731308897L0Tq9lZhRazerWilmaT1Setup_v3.9.1130.111111.exe`](./1731308897L0Tq9lZhRazerWilmaT1Setup_v3.9.1130.111111.exe)
 
 ### Viper V2 Pro - 166
 
 ### Mouse Dock - 126
 
 ### Viper Ultimate - 123
-`17095084589cuAlQVYRazerAvaT1Setup_v3.9.0331.030402.exe`
+[`17095084589cuAlQVYRazerAvaT1Setup_v3.9.0331.030402.exe`](./17095084589cuAlQVYRazerAvaT1Setup_v3.9.0331.030402.exe)
 
 ### Viper - 120
-`6067843235PwhZ0rPRazer_120_0_Setup_v3.5.1215.120103.exe`
+[`6067843235PwhZ0rPRazer_120_0_Setup_v3.5.1215.120103.exe`](./6067843235PwhZ0rPRazer_120_0_Setup_v3.5.1215.120103.exe)
 
 ### Lancehead - 96
-`1683599573QIhUdBTVRazerLanceheadTESetup_v3.8.0531.050902.exe`
-`1606793997HFy6xCfVRazerLanceheadTournamentEditionWhiteSetup_v3.5.1215.120103.exe`
+[`1683599573QIhUdBTVRazerLanceheadTESetup_v3.8.0531.050902.exe`](./1683599573QIhUdBTVRazerLanceheadTESetup_v3.8.0531.050902.exe)
+[`1606793997HFy6xCfVRazerLanceheadTournamentEditionWhiteSetup_v3.5.1215.120103.exe`](./1606793997HFy6xCfVRazerLanceheadTournamentEditionWhiteSetup_v3.5.1215.120103.exe)
 
 ### Kraken Tournament Edition - 1312
-`1719280620NNCNjczdRazer_1312_0Setup_v3.9.0630.062502.exe`
+[`1719280620NNCNjczdRazer_1312_0Setup_v3.9.0630.062502.exe`](./1719280620NNCNjczdRazer_1312_0Setup_v3.9.0630.062502.exe)
 
 ### Blackwidow V3 Mini - 600
-`1709624471HZeMNE1XRazer_600_0_Setup_v3.9.0331.030511.exe`
+[`1709624471HZeMNE1XRazer_600_0_Setup_v3.9.0331.030511.exe`](./1709624471HZeMNE1XRazer_600_0_Setup_v3.9.0331.030511.exe)
 
 ### BlackWidow Tournament Edition Chroma - 521
-`1628577856ZfONHenoRazer_521_0Setup_v3.6.0815.081011.exe`
+[`1628577856ZfONHenoRazer_521_0Setup_v3.6.0815.081011.exe`](./1628577856ZfONHenoRazer_521_0Setup_v3.6.0815.081011.exe)
 
 ### Blade 2017 - 623
-`1612165712YbhXrMpFRazer_623_0_Setup_v3.6.0131.020115.exe`
+[`1612165712YbhXrMpFRazer_623_0_Setup_v3.6.0131.020115.exe`](./1612165712YbhXrMpFRazer_623_0_Setup_v3.6.0131.020115.exe)
