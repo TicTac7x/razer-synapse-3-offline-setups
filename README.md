@@ -1,3 +1,6 @@
+# Synapse 3 online installation
+Open RazerInstaller.exe without any Razer devices connected, this lets you install Synapse3 and all the modules normally for now.
+
 # Synapse 3 offline installation
 Install the setups in following order:
 
