@@ -50,6 +50,10 @@ Install the setups in following order:
 ### Viper
 `6067843235PwhZ0rPRazer_120_0_Setup_v3.5.1215.120103.exe`
 
+### Lancehead
+`1683599573QIhUdBTVRazerLanceheadTESetup_v3.8.0531.050902.exe`
+`1606793997HFy6xCfVRazerLanceheadTournamentEditionWhiteSetup_v3.5.1215.120103.exe`
+
 ### Kraken Tournament Edition
 `1719280620NNCNjczdRazer_1312_0Setup_v3.9.0630.062502.exe`
 
