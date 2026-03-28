@@ -50,6 +50,8 @@ Install the setups in following order:
 ### Viper V3 Pro - 193
 `1731308897L0Tq9lZhRazerWilmaT1Setup_v3.9.1130.111111.exe`
 
+### Viper V2 Pro - 126
+
 ### Viper Ultimate - 123
 
 ### Viper - 120
