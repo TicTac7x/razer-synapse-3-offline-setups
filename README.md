@@ -8,9 +8,40 @@ Install the setups in following order:
 5. `1729231680NrXgFZRTRazerStringTranslationsSetup_v3.9.1130.101807.exe`
 6. `16412751943jMgByhHRazerCalibrationFilesSetup_v3.7.0131.010403.exe`
 7. `1722242219cwLxfYYdRazerGameProfileSetup_v3.9.0806.072915.exe`
-8. `1706004329lTqnjXKVRazerMacroSetup_v3.9.0131.012317.exe`
-9. `17325863935tg0xvJmRazerSynapseConfigurationDataSetup_v3.9.1130.112605.exe`
-10. `1769585343330VJAVqRazerSynapseSetup_v3.11.0228.012810.exe`
+8. `17325863935tg0xvJmRazerSynapseConfigurationDataSetup_v3.9.1130.112605.exe`
+9. `1769585343330VJAVqRazerSynapseSetup_v3.11.0228.012810.exe`
+
+# Optional Modules
+### Alexa
+`1706157786vdp2jgQMRazerAlexaSetup_v3.9.0131.012511.exe`
+
+### Chroma Connect
+`https://cdn.razersynapse.com/17504067262Up4yI73RazerChromaBroadcasterSetup_v3.10.0630.062015.exe`
+
+### Chroma Visualizer
+`1729826065qNdUxo0URazerAudioVisualizerSetup_v3.9.1130.102510.exe`
+
+### Hue
+`1750405942xTCFDCgDRazerPhilipsHueSetup_v3.10.0630.062011.exe`
+
+### Macro
+`1706004329lTqnjXKVRazerMacroSetup_v3.9.0131.012317.exe`
+
+# Separate apps
+### Razer Cortex
+`1773049540o62c3X9uRazerCortexSetup_11.7.1.25.exe`
+
+### Razer Axon
+`17690460849vT1R67QRazerAxonSetup_2.6.2.0.exe`
+
+### THX Spatial Audio
+`1713509834mVPLCvYPTHXSpatialAudioSetup-v2.0.1.15.exe`
+
+### Streamer Companion App
+`1700202653705F2WD7StreamerCompanionAppSetup-v2.0.1.12.exe`
+
+### Razer Virtual Ring Light
+`1713511449gj1UXRTEVirtualRingLight-v2.0.0.24.exe`
 
 # Devices
 ### Viper V3 Pro
@@ -24,3 +55,6 @@ Install the setups in following order:
 
 ### Blackwidow V3 Mini
 `1709624471HZeMNE1XRazer_600_0_Setup_v3.9.0331.030511.exe`
+
+### Blade 2017
+`1612165712YbhXrMpFRazer_623_0_Setup_v3.6.0131.020115.exe`
