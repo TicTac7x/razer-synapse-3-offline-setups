@@ -47,8 +47,10 @@ Install the setups in following order:
 `1713511449gj1UXRTEVirtualRingLight-v2.0.0.24.exe`
 
 # Devices
-### Viper V3 Pro
+### Viper V3 Pro - 193
 `1731308897L0Tq9lZhRazerWilmaT1Setup_v3.9.1130.111111.exe`
+
+### Viper Ultimate - 123
 
 ### Viper - 120
 `6067843235PwhZ0rPRazer_120_0_Setup_v3.5.1215.120103.exe`
