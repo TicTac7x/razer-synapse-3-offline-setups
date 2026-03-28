@@ -4,7 +4,7 @@ Open `RazerInstaller.exe` without any Razer devices connected, this lets you ins
 # Synapse 3 offline installation
 Install the setups in following order:
 
-1. `1660119346OLtIZnKORazerSynapseDependenciesSetup_v3.7.0830.1.exe`
+1. [`1660119346OLtIZnKORazerSynapseDependenciesSetup_v3.7.0830.1.exe`](./1660119346OLtIZnKORazerSynapseDependenciesSetup_v3.7.0830.1.exe)
 2. `1769761272w10347UZRazerCentral_v7.21.0.1154.exe`
 3. `1729824018fkSwByXhRzGMS_Setup_V2.4.160.155.exe`
 4. `1721955728BzvfcfqXRazerVideoPlayerSetup_v3.9.0806.072600.exe`
