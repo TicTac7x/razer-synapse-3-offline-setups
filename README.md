@@ -71,7 +71,8 @@ Install the setups in following order:
 [`1709624471HZeMNE1XRazer_600_0_Setup_v3.9.0331.030511.exe`](./1709624471HZeMNE1XRazer_600_0_Setup_v3.9.0331.030511.exe)
 
 ### BlackWidow Tournament Edition Chroma - 521
-[`1628577856ZfONHenoRazer_521_0Setup_v3.6.0815.081011.exe`](./1628577856ZfONHenoRazer_521_0Setup_v3.6.0815.081011.exe)
+[`1683595958D3ul6VyYRazer_521_0Setup_v3.8.0531.050902.exe`](./1683595958D3ul6VyYRazer_521_0Setup_v3.8.0531.050902.exe)
+[`1641907259XZRXcr3xRazer_521_129Setup_v3.7.0131.011103.exe`](./1641907259XZRXcr3xRazer_521_129Setup_v3.7.0131.011103.exe)
 
 ### Blade 2017 - 623
 [`1612165712YbhXrMpFRazer_623_0_Setup_v3.6.0131.020115.exe`](./1612165712YbhXrMpFRazer_623_0_Setup_v3.6.0131.020115.exe)
