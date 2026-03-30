@@ -7,7 +7,7 @@ Open `RazerInstaller.exe` without any Razer devices connected, this lets you ins
 Install the setups in the given order.  
 **NB! Restart PC afterwards.**
 
-**1. Synapse dependencies:**
+**1. Synapse dependencies:**  
 [`1660119346OLtIZnKORazerSynapseDependenciesSetup_v3.7.0830.1.part1.rar`](./core/1660119346OLtIZnKORazerSynapseDependenciesSetup_v3.7.0830.1.part1.rar)  
  [`1660119346OLtIZnKORazerSynapseDependenciesSetup_v3.7.0830.1.part2.rar`](./core/1660119346OLtIZnKORazerSynapseDependenciesSetup_v3.7.0830.1.part2.rar)
 
@@ -22,13 +22,10 @@ Install the setups in the given order.
 **4. String Translations:**  
 [`1729231680NrXgFZRTRazerStringTranslationsSetup_v3.9.1130.101807.exe`](./core/1729231680NrXgFZRTRazerStringTranslationsSetup_v3.9.1130.101807.exe)
 
-**5. Profiles:**  
-[`1722242219cwLxfYYdRazerGameProfileSetup_v3.9.0806.072915.exe`](./core/1722242219cwLxfYYdRazerGameProfileSetup_v3.9.0806.072915.exe)
-
-**6. Synapse Configuration Data:**  
+**5. Synapse Configuration Data:**  
 [`17325863935tg0xvJmRazerSynapseConfigurationDataSetup_v3.9.1130.112605.exe`](./core/17325863935tg0xvJmRazerSynapseConfigurationDataSetup_v3.9.1130.112605.exe)
 
-**7. Synapse:**  
+**6. Synapse:**  
 [`1769585343330VJAVqRazerSynapseSetup_v3.11.0228.012810.part1.rar`](./core/1769585343330VJAVqRazerSynapseSetup_v3.11.0228.012810.part1.rar)  
 [`1769585343330VJAVqRazerSynapseSetup_v3.11.0228.012810.part2.rar`](./core/1769585343330VJAVqRazerSynapseSetup_v3.11.0228.012810.part2.rar)
 
