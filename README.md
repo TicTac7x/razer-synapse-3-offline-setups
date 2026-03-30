@@ -58,31 +58,31 @@ Install the setups in the given order.
 
 ### Razer Cortex
 
-[`1773049540o62c3X9uRazerCortexSetup_11.7.1.25.part1.rar`](./separate%20apps/1773049540o62c3X9uRazerCortexSetup_11.7.1.25.part1.rar)  
-[`1773049540o62c3X9uRazerCortexSetup_11.7.1.25.part2.rar`](./separate%20apps/1773049540o62c3X9uRazerCortexSetup_11.7.1.25.part2.rar)
+[`1773049540o62c3X9uRazerCortexSetup_11.7.1.25.part1.rar`](./separate-apps/1773049540o62c3X9uRazerCortexSetup_11.7.1.25.part1.rar)  
+[`1773049540o62c3X9uRazerCortexSetup_11.7.1.25.part2.rar`](./separate-apps/1773049540o62c3X9uRazerCortexSetup_11.7.1.25.part2.rar)
 
 ### Razer Axon
 
-[`17690460849vT1R67QRazerAxonSetup_2.6.2.0.exe`](./separate%20apps/17690460849vT1R67QRazerAxonSetup_2.6.2.0.exe)
+[`17690460849vT1R67QRazerAxonSetup_2.6.2.0.exe`](./separate-apps/17690460849vT1R67QRazerAxonSetup_2.6.2.0.exe)
 
 ### THX Spatial Audio
 
-[`1713509834mVPLCvYPTHXSpatialAudioSetup-v2.0.1.15.part1.rar`](./separate%20apps/1713509834mVPLCvYPTHXSpatialAudioSetup-v2.0.1.15.part1.rar)  
-[`1713509834mVPLCvYPTHXSpatialAudioSetup-v2.0.1.15.part2.rar`](./separate%20apps/1713509834mVPLCvYPTHXSpatialAudioSetup-v2.0.1.15.part2.rar)
+[`1713509834mVPLCvYPTHXSpatialAudioSetup-v2.0.1.15.part1.rar`](./separate-apps/1713509834mVPLCvYPTHXSpatialAudioSetup-v2.0.1.15.part1.rar)  
+[`1713509834mVPLCvYPTHXSpatialAudioSetup-v2.0.1.15.part2.rar`](./separate-apps/1713509834mVPLCvYPTHXSpatialAudioSetup-v2.0.1.15.part2.rar)
 
 ### Streamer Companion App
 
-[`1700202653705F2WD7StreamerCompanionAppSetup-v2.0.1.12.exe`](./separate%20apps/1700202653705F2WD7StreamerCompanionAppSetup-v2.0.1.12.exe)
+[`1700202653705F2WD7StreamerCompanionAppSetup-v2.0.1.12.exe`](./separate-apps/1700202653705F2WD7StreamerCompanionAppSetup-v2.0.1.12.exe)
 
 ### Razer Virtual Ring Light
 
-[`1713511449gj1UXRTEVirtualRingLight-v2.0.0.24.exe`](./separate%20apps/1713511449gj1UXRTEVirtualRingLight-v2.0.0.24.exe)
+[`1713511449gj1UXRTEVirtualRingLight-v2.0.0.24.exe`](./separate-apps/1713511449gj1UXRTEVirtualRingLight-v2.0.0.24.exe)
 
 # Devices
 
 ### Viper V3 Pro - 193
 
-[`1731308897L0Tq9lZhRazerWilmaT1Setup_v3.9.1130.111111.exe`](./devices/viper%20v3%20pro/1731308897L0Tq9lZhRazerWilmaT1Setup_v3.9.1130.111111.exe)
+[`1731308897L0Tq9lZhRazerWilmaT1Setup_v3.9.1130.111111.exe`](./devices/viper-v3-pro/1731308897L0Tq9lZhRazerWilmaT1Setup_v3.9.1130.111111.exe)
 [`1721955728BzvfcfqXRazerVideoPlayerSetup_v3.9.0806.072600.part1.rar`](./devices/common/1721955728BzvfcfqXRazerVideoPlayerSetup_v3.9.0806.072600.part1.rar)  
 [`1721955728BzvfcfqXRazerVideoPlayerSetup_v3.9.0806.072600.part2.rar`](./devices/common/1721955728BzvfcfqXRazerVideoPlayerSetup_v3.9.0806.072600.part2.rar)
 
@@ -98,7 +98,7 @@ Install the setups in the given order.
 
 ### Viper Ultimate - 123
 
-[`17095084589cuAlQVYRazerAvaT1Setup_v3.9.0331.030402.exe`](./devices/viper%20ultimate/17095084589cuAlQVYRazerAvaT1Setup_v3.9.0331.030402.exe)
+[`17095084589cuAlQVYRazerAvaT1Setup_v3.9.0331.030402.exe`](./devices/viper-ultimate/17095084589cuAlQVYRazerAvaT1Setup_v3.9.0331.030402.exe)
 
 ---
 
@@ -110,48 +110,48 @@ Install the setups in the given order.
 
 ### Lancehead TE - 96
 
-[`17188641503zdAU99IRazerLanceheadTESetup_v3.9.0630.062001.exe`](./devices/lancehead%20te/17188641503zdAU99IRazerLanceheadTESetup_v3.9.0630.062001.exe)
+[`17188641503zdAU99IRazerLanceheadTESetup_v3.9.0630.062001.exe`](./devices/lancehead-te/17188641503zdAU99IRazerLanceheadTESetup_v3.9.0630.062001.exe)
 
 #### White
 
-[`1606793997HFy6xCfVRazerLanceheadTournamentEditionWhiteSetup_v3.5.1215.120103.exe`](./devices/lancehead%20te/1606793997HFy6xCfVRazerLanceheadTournamentEditionWhiteSetup_v3.5.1215.120103.exe)
+[`1606793997HFy6xCfVRazerLanceheadTournamentEditionWhiteSetup_v3.5.1215.120103.exe`](./devices/lancehead-te/1606793997HFy6xCfVRazerLanceheadTournamentEditionWhiteSetup_v3.5.1215.120103.exe)
 
 #### Gunmetal
 
-[`1606793484jASeBzLwRazerLanceheadTournamentEditionGunmetalSetup_v3.5.1215.120103.exe`](./devices/lancehead%20te/1606793484jASeBzLwRazerLanceheadTournamentEditionGunmetalSetup_v3.5.1215.120103.exe)
+[`1606793484jASeBzLwRazerLanceheadTournamentEditionGunmetalSetup_v3.5.1215.120103.exe`](./devices/lancehead-te/1606793484jASeBzLwRazerLanceheadTournamentEditionGunmetalSetup_v3.5.1215.120103.exe)
 
 ---
 
 ### Naga Trinitiy
 
-[`1709511092Aoc6w5mhRazerNagaTrinitySetup_v3.9.0331.030402.exe`](./devices/naga%20trinity/1709511092Aoc6w5mhRazerNagaTrinitySetup_v3.9.0331.030402.exe)
+[`1709511092Aoc6w5mhRazerNagaTrinitySetup_v3.9.0331.030402.exe`](./devices/naga-trinity/1709511092Aoc6w5mhRazerNagaTrinitySetup_v3.9.0331.030402.exe)
 
 ---
 
 ### Kraken TE / USB Audio Controller - 1312
 
-[`1719280620NNCNjczdRazer_1312_0Setup_v3.9.0630.062502.exe`](./devices/kraken%20te/1719280620NNCNjczdRazer_1312_0Setup_v3.9.0630.062502.exe)  
+[`1719280620NNCNjczdRazer_1312_0Setup_v3.9.0630.062502.exe`](./devices/kraken-te/1719280620NNCNjczdRazer_1312_0Setup_v3.9.0630.062502.exe)  
 [`1721955728BzvfcfqXRazerVideoPlayerSetup_v3.9.0806.072600.part1.rar`](./devices/common/1721955728BzvfcfqXRazerVideoPlayerSetup_v3.9.0806.072600.part1.rar)  
 [`1721955728BzvfcfqXRazerVideoPlayerSetup_v3.9.0806.072600.part2.rar`](./devices/common/1721955728BzvfcfqXRazerVideoPlayerSetup_v3.9.0806.072600.part2.rar)  
-[`1722242219cwLxfYYdRazerGameProfileSetup_v3.9.0806.072915.exe`](./devices/kraken%20te/1722242219cwLxfYYdRazerGameProfileSetup_v3.9.0806.072915.exe)  
-[`16412751943jMgByhHRazerCalibrationFilesSetup_v3.7.0131.010403.exe`](./devices/kraken%20te/16412751943jMgByhHRazerCalibrationFilesSetup_v3.7.0131.010403.exe)
+[`1722242219cwLxfYYdRazerGameProfileSetup_v3.9.0806.072915.exe`](./devices/kraken-te/1722242219cwLxfYYdRazerGameProfileSetup_v3.9.0806.072915.exe)  
+[`16412751943jMgByhHRazerCalibrationFilesSetup_v3.7.0131.010403.exe`](./devices/kraken-te/16412751943jMgByhHRazerCalibrationFilesSetup_v3.7.0131.010403.exe)
 
 ---
 
 ### Blackwidow V3 Mini Hyperspeed - 600
 
-[`1709624471HZeMNE1XRazer_600_0_Setup_v3.9.0331.030511.exe`](./devices/blackwidow%20v3%20mini%20hyperspeed/1709624471HZeMNE1XRazer_600_0_Setup_v3.9.0331.030511.exe)
+[`1709624471HZeMNE1XRazer_600_0_Setup_v3.9.0331.030511.exe`](./devices/blackwidow-v3-mini-hyperspeed/1709624471HZeMNE1XRazer_600_0_Setup_v3.9.0331.030511.exe)
 
 ---
 
 ### BlackWidow TE Chroma V2 - 521
 
-[`1683595958D3ul6VyYRazer_521_0Setup_v3.8.0531.050902.exe`](./devices/blackwidow%20te%20chroma%20v2/1683595958D3ul6VyYRazer_521_0Setup_v3.8.0531.050902.exe)  
-[`16276198892wagB8RNRazer_521_128Setup_v3.6.0815.073010.exe`](./devices/blackwidow%20te%20chroma%20v2/16276198892wagB8RNRazer_521_128Setup_v3.6.0815.073010.exe)  
-[`1641907259XZRXcr3xRazer_521_129Setup_v3.7.0131.011103.exe`](./devices/blackwidow%20te%20chroma%20v2/1641907259XZRXcr3xRazer_521_129Setup_v3.7.0131.011103.exe)
+[`1683595958D3ul6VyYRazer_521_0Setup_v3.8.0531.050902.exe`](./devices/blackwidow-te-chroma-v2/1683595958D3ul6VyYRazer_521_0Setup_v3.8.0531.050902.exe)  
+[`16276198892wagB8RNRazer_521_128Setup_v3.6.0815.073010.exe`](./devices/blackwidow-te-chroma-v2/16276198892wagB8RNRazer_521_128Setup_v3.6.0815.073010.exe)  
+[`1641907259XZRXcr3xRazer_521_129Setup_v3.7.0131.011103.exe`](./devices/blackwidow-te-chroma-v2/1641907259XZRXcr3xRazer_521_129Setup_v3.7.0131.011103.exe)
 
 ---
 
 ### Blade 15 2021 - 623
 
-[`1612165712YbhXrMpFRazer_623_0_Setup_v3.6.0131.020115.exe`](./devices/blade%2015%202021/1612165712YbhXrMpFRazer_623_0_Setup_v3.6.0131.020115.exe)
+[`1612165712YbhXrMpFRazer_623_0_Setup_v3.6.0131.020115.exe`](./devices/blade-15-2021/1612165712YbhXrMpFRazer_623_0_Setup_v3.6.0131.020115.exe)
