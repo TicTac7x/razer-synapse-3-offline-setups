@@ -7,7 +7,7 @@ Open `RazerInstaller.exe` without any Razer devices connected, this lets you ins
 Install the setups in the given order.  
 **NB! Restart PC afterwards.**
 
-**1. Synapse dependencies:**
+**1. Synapse dependencies:**  
 [`1660119346OLtIZnKORazerSynapseDependenciesSetup_v3.7.0830.1.part1.rar`](./core/1660119346OLtIZnKORazerSynapseDependenciesSetup_v3.7.0830.1.part1.rar)  
  [`1660119346OLtIZnKORazerSynapseDependenciesSetup_v3.7.0830.1.part2.rar`](./core/1660119346OLtIZnKORazerSynapseDependenciesSetup_v3.7.0830.1.part2.rar)
 
@@ -82,7 +82,7 @@ Install the setups in the given order.
 
 ### Viper V3 Pro - 193
 
-[`1731308897L0Tq9lZhRazerWilmaT1Setup_v3.9.1130.111111.exe`](./devices/viper%20v3%20pro/1731308897L0Tq9lZhRazerWilmaT1Setup_v3.9.1130.111111.exe)
+[`1731308897L0Tq9lZhRazerWilmaT1Setup_v3.9.1130.111111.exe`](./devices/viper%20v3%20pro/1731308897L0Tq9lZhRazerWilmaT1Setup_v3.9.1130.111111.exe)  
 [`1721955728BzvfcfqXRazerVideoPlayerSetup_v3.9.0806.072600.part1.rar`](./devices/common/1721955728BzvfcfqXRazerVideoPlayerSetup_v3.9.0806.072600.part1.rar)  
 [`1721955728BzvfcfqXRazerVideoPlayerSetup_v3.9.0806.072600.part2.rar`](./devices/common/1721955728BzvfcfqXRazerVideoPlayerSetup_v3.9.0806.072600.part2.rar)
 
