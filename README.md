@@ -2,53 +2,72 @@
 Open `RazerInstaller.exe` without any Razer devices connected, this lets you install Synapse3 and all the modules normally for now.
 
 # Synapse 3 offline installation
-Install the setups in following order:
+Install the setups in following order, **restart after all have been installed**:
+1. `1660119346OLtIZnKORazerSynapseDependenciesSetup_v3.7.0830.1.exe`:  
+[`1660119346OLtIZnKORazerSynapseDependenciesSetup_v3.7.0830.1.part1.rar`](./1660119346OLtIZnKORazerSynapseDependenciesSetup_v3.7.0830.1.part1.rar)  
+[`1660119346OLtIZnKORazerSynapseDependenciesSetup_v3.7.0830.1.part2.rar`](./1660119346OLtIZnKORazerSynapseDependenciesSetup_v3.7.0830.1.part2.rar)
 
-1. `1660119346OLtIZnKORazerSynapseDependenciesSetup_v3.7.0830.1.exe`
-2. `1769761272w10347UZRazerCentral_v7.21.0.1154.exe`
-3. `1729824018fkSwByXhRzGMS_Setup_V2.4.160.155.exe`
-4. `1721955728BzvfcfqXRazerVideoPlayerSetup_v3.9.0806.072600.exe`
-5. `1729231680NrXgFZRTRazerStringTranslationsSetup_v3.9.1130.101807.exe`
-6. `16412751943jMgByhHRazerCalibrationFilesSetup_v3.7.0131.010403.exe`
-7. `1722242219cwLxfYYdRazerGameProfileSetup_v3.9.0806.072915.exe`
-8. `17325863935tg0xvJmRazerSynapseConfigurationDataSetup_v3.9.1130.112605.exe`
-9. `1769585343330VJAVqRazerSynapseSetup_v3.11.0228.012810.exe`
+2. `1769761272w10347UZRazerCentral_v7.21.0.1154.exe`:  
+[`1769761272w10347UZRazerCentral_v7.21.0.1154.part1.rar`](./1769761272w10347UZRazerCentral_v7.21.0.1154.part1.rar)  
+[`1769761272w10347UZRazerCentral_v7.21.0.1154.part2.rar`](./1769761272w10347UZRazerCentral_v7.21.0.1154.part2.rar)
+
+3. `1729824018fkSwByXhRzGMS_Setup_V2.4.160.155.exe`:  
+[`1729824018fkSwByXhRzGMS_Setup_V2.4.160.155.part1.rar`](./1729824018fkSwByXhRzGMS_Setup_V2.4.160.155.part1.rar)  
+[`1729824018fkSwByXhRzGMS_Setup_V2.4.160.155.part2.rar`](./1729824018fkSwByXhRzGMS_Setup_V2.4.160.155.part2.rar)  
+
+4. [`1729231680NrXgFZRTRazerStringTranslationsSetup_v3.9.1130.101807.exe`](./1729231680NrXgFZRTRazerStringTranslationsSetup_v3.9.1130.101807.exe)
+
+5. [`1722242219cwLxfYYdRazerGameProfileSetup_v3.9.0806.072915.exe`](./1722242219cwLxfYYdRazerGameProfileSetup_v3.9.0806.072915.exe)
+
+6. [`17325863935tg0xvJmRazerSynapseConfigurationDataSetup_v3.9.1130.112605.exe`](./17325863935tg0xvJmRazerSynapseConfigurationDataSetup_v3.9.1130.112605.exe)
+
+7. `1769585343330VJAVqRazerSynapseSetup_v3.11.0228.012810.exe`:  
+[`1769585343330VJAVqRazerSynapseSetup_v3.11.0228.012810.part1.rar`](./1769585343330VJAVqRazerSynapseSetup_v3.11.0228.012810.part1.rar)  
+[`1769585343330VJAVqRazerSynapseSetup_v3.11.0228.012810.part2.rar`](./1769585343330VJAVqRazerSynapseSetup_v3.11.0228.012810.part2.rar)
 
 # Optional Modules
 ### Alexa
-`1706157786vdp2jgQMRazerAlexaSetup_v3.9.0131.012511.exe`
+[`1706157786vdp2jgQMRazerAlexaSetup_v3.9.0131.012511.exe`](./1706157786vdp2jgQMRazerAlexaSetup_v3.9.0131.012511.exe)
 
 ### Chroma Connect
-`https://cdn.razersynapse.com/17504067262Up4yI73RazerChromaBroadcasterSetup_v3.10.0630.062015.exe`
+[`17504067262Up4yI73RazerChromaBroadcasterSetup_v3.10.0630.062015.exe`](./17504067262Up4yI73RazerChromaBroadcasterSetup_v3.10.0630.062015.exe)
 
 ### Chroma Visualizer
-`1729826065qNdUxo0URazerAudioVisualizerSetup_v3.9.1130.102510.exe`
+[`1729826065qNdUxo0URazerAudioVisualizerSetup_v3.9.1130.102510.exe`](./1729826065qNdUxo0URazerAudioVisualizerSetup_v3.9.1130.102510.exe)
 
 ### Hue
-`1750405942xTCFDCgDRazerPhilipsHueSetup_v3.10.0630.062011.exe`
+[`1750405942xTCFDCgDRazerPhilipsHueSetup_v3.10.0630.062011.exe`](./1750405942xTCFDCgDRazerPhilipsHueSetup_v3.10.0630.062011.exe)
 
 ### Macro
-`1706004329lTqnjXKVRazerMacroSetup_v3.9.0131.012317.exe`
+[`1706004329lTqnjXKVRazerMacroSetup_v3.9.0131.012317.exe`](./1706004329lTqnjXKVRazerMacroSetup_v3.9.0131.012317.exe)
 
 # Separate apps
 ### Razer Cortex
-`1773049540o62c3X9uRazerCortexSetup_11.7.1.25.exe`
+`1773049540o62c3X9uRazerCortexSetup_11.7.1.25.exe`:  
+* [`1773049540o62c3X9uRazerCortexSetup_11.7.1.25.part1.rar`](./1773049540o62c3X9uRazerCortexSetup_11.7.1.25.part1.rar)  
+* [`1773049540o62c3X9uRazerCortexSetup_11.7.1.25.part2.rar`](./1773049540o62c3X9uRazerCortexSetup_11.7.1.25.part2.rar)
 
 ### Razer Axon
-`17690460849vT1R67QRazerAxonSetup_2.6.2.0.exe`
+[`17690460849vT1R67QRazerAxonSetup_2.6.2.0.exe`](./17690460849vT1R67QRazerAxonSetup_2.6.2.0.exe)
 
 ### THX Spatial Audio
-`1713509834mVPLCvYPTHXSpatialAudioSetup-v2.0.1.15.exe`
+`1713509834mVPLCvYPTHXSpatialAudioSetup-v2.0.1.15.exe`:  
+* [`1713509834mVPLCvYPTHXSpatialAudioSetup-v2.0.1.15.part1.rar`](./1713509834mVPLCvYPTHXSpatialAudioSetup-v2.0.1.15.part1.rar)
+* [`1713509834mVPLCvYPTHXSpatialAudioSetup-v2.0.1.15.part2.rar`](./1713509834mVPLCvYPTHXSpatialAudioSetup-v2.0.1.15.part2.rar)
 
 ### Streamer Companion App
-`1700202653705F2WD7StreamerCompanionAppSetup-v2.0.1.12.exe`
+[`1700202653705F2WD7StreamerCompanionAppSetup-v2.0.1.12.exe`](./1700202653705F2WD7StreamerCompanionAppSetup-v2.0.1.12.exe)
 
 ### Razer Virtual Ring Light
-`1713511449gj1UXRTEVirtualRingLight-v2.0.0.24.exe`
+[`1713511449gj1UXRTEVirtualRingLight-v2.0.0.24.exe`](./1713511449gj1UXRTEVirtualRingLight-v2.0.0.24.exe)
 
 # Devices
 ### Viper V3 Pro - 193
 [`1731308897L0Tq9lZhRazerWilmaT1Setup_v3.9.1130.111111.exe`](./1731308897L0Tq9lZhRazerWilmaT1Setup_v3.9.1130.111111.exe)
+
+`1721955728BzvfcfqXRazerVideoPlayerSetup_v3.9.0806.072600.exe`:
+* [`1721955728BzvfcfqXRazerVideoPlayerSetup_v3.9.0806.072600.part1.rar`](./1721955728BzvfcfqXRazerVideoPlayerSetup_v3.9.0806.072600.part1.rar)
+* [`1721955728BzvfcfqXRazerVideoPlayerSetup_v3.9.0806.072600.part2.rar`](./1721955728BzvfcfqXRazerVideoPlayerSetup_v3.9.0806.072600.part2.rar)
 
 ### Viper V2 Pro - 166
 
