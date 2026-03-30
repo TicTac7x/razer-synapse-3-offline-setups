@@ -2,6 +2,10 @@
 
 Open `RazerInstaller.exe` without any Razer devices connected, this lets you install Synapse3, its modules and additional apps normally for now.
 
+# How to download these files officially from Razer servers
+
+All listed files are currently downloadable directly from Razer servers from `https://cdn.razersynapse.com/` + `filename.exe`
+
 # Synapse 3 offline installation
 
 Install the setups in the given order.  
@@ -116,6 +120,12 @@ Install the setups in the given order.
 #### Gunmetal
 
 [`1606793484jASeBzLwRazerLanceheadTournamentEditionGunmetalSetup_v3.5.1215.120103.exe`](./devices/lancehead-te/1606793484jASeBzLwRazerLanceheadTournamentEditionGunmetalSetup_v3.5.1215.120103.exe)
+
+---
+
+### Basilisk V3
+
+[`https://cdn.razersynapse.com/17206526984mre4EBMRazer_153_0_Setup_v3.9.0630.071101.exe`](./devices/basilisk-v3/17206526984mre4EBMRazer_153_0_Setup_v3.9.0630.071101.exe)
 
 ---
 
