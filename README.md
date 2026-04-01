@@ -9,67 +9,36 @@ All listed files are currently downloadable directly from Razer servers and ther
 Install the setups in the given order.  
 **NB! Restart PC afterwards.**
 
-**1. Synapse dependencies:**  
-[`1660119346OLtIZnKORazerSynapseDependenciesSetup_v3.7.0830.1.exe`](https://cdn.razersynapse.com/1660119346OLtIZnKORazerSynapseDependenciesSetup_v3.7.0830.1.exe)
+## Synpase 3 Core Components
 
-**2. Razer Central:**  
-[`1769761272w10347UZRazerCentral_v7.21.0.1154.exe`](https://cdn.razersynapse.com/1769761272w10347UZRazerCentral_v7.21.0.1154.exe)
+| Component                  | Downloads                                                                                                                                                                             |
+| -------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Synapse dependencies       | [`1660119346OLtIZnKORazerSynapseDependenciesSetup_v3.7.0830.1.exe`](https://cdn.razersynapse.com/1660119346OLtIZnKORazerSynapseDependenciesSetup_v3.7.0830.1.exe)                     |
+| Razer Central              | [`1769761272w10347UZRazerCentral_v7.21.0.1154.exe`](https://cdn.razersynapse.com/1769761272w10347UZRazerCentral_v7.21.0.1154.exe)                                                     |
+| Game Manager Service       | [`1729824018fkSwByXhRzGMS_Setup_V2.4.160.155.exe`](https://cdn.razersynapse.com/1729824018fkSwByXhRzGMS_Setup_V2.4.160.155.exe)                                                       |
+| String Translations        | [`1729231680NrXgFZRTRazerStringTranslationsSetup_v3.9.1130.101807.exe`](https://cdn.razersynapse.com/1729231680NrXgFZRTRazerStringTranslationsSetup_v3.9.1130.101807.exe)             |
+| Synapse Configuration Data | [`17325863935tg0xvJmRazerSynapseConfigurationDataSetup_v3.9.1130.112605.exe`](https://cdn.razersynapse.com/17325863935tg0xvJmRazerSynapseConfigurationDataSetup_v3.9.1130.112605.exe) |
+| Synapse                    | [`1769585343330VJAVqRazerSynapseSetup_v3.11.0228.012810.exe`](https://cdn.razersynapse.com/1769585343330VJAVqRazerSynapseSetup_v3.11.0228.012810.exe)                                 |
 
-**3. Game Manager Service:**  
-[`1729824018fkSwByXhRzGMS_Setup_V2.4.160.155.exe`](https://cdn.razersynapse.com/1729824018fkSwByXhRzGMS_Setup_V2.4.160.155.exe)
+## Optional Modules
 
-**4. String Translations:**  
-[`1729231680NrXgFZRTRazerStringTranslationsSetup_v3.9.1130.101807.exe`](https://cdn.razersynapse.com/1729231680NrXgFZRTRazerStringTranslationsSetup_v3.9.1130.101807.exe)
+| Module            | Downloads                                                                                                                                                                 |
+| ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Alexa             | [`1706157786vdp2jgQMRazerAlexaSetup_v3.9.0131.012511.exe`](https://cdn.razersynapse.com/1706157786vdp2jgQMRazerAlexaSetup_v3.9.0131.012511.exe)                           |
+| Chroma Connect    | [`17504067262Up4yI73RazerChromaBroadcasterSetup_v3.10.0630.062015.exe`](https://cdn.razersynapse.com/17504067262Up4yI73RazerChromaBroadcasterSetup_v3.10.0630.062015.exe) |
+| Chroma Visualizer | [`1729826065qNdUxo0URazerAudioVisualizerSetup_v3.9.1130.102510.exe`](https://cdn.razersynapse.com/1729826065qNdUxo0URazerAudioVisualizerSetup_v3.9.1130.102510.exe)       |
+| Hue               | [`1750405942xTCFDCgDRazerPhilipsHueSetup_v3.10.0630.062011.exe`](https://cdn.razersynapse.com/1750405942xTCFDCgDRazerPhilipsHueSetup_v3.10.0630.062011.exe)               |
+| Macro             | [`1706004329lTqnjXKVRazerMacroSetup_v3.9.0131.012317.exe`](https://cdn.razersynapse.com/1706004329lTqnjXKVRazerMacroSetup_v3.9.0131.012317.exe)                           |
 
-**5. Synapse Configuration Data:**  
-[`17325863935tg0xvJmRazerSynapseConfigurationDataSetup_v3.9.1130.112605.exe`](https://cdn.razersynapse.com/17325863935tg0xvJmRazerSynapseConfigurationDataSetup_v3.9.1130.112605.exe)
+## Separate apps
 
-**6. Synapse:**  
-[`1769585343330VJAVqRazerSynapseSetup_v3.11.0228.012810.exe`](https://cdn.razersynapse.com/1769585343330VJAVqRazerSynapseSetup_v3.11.0228.012810.exe)
-
-# Optional Modules
-
-### Alexa
-
-[`1706157786vdp2jgQMRazerAlexaSetup_v3.9.0131.012511.exe`](https://cdn.razersynapse.com/1706157786vdp2jgQMRazerAlexaSetup_v3.9.0131.012511.exe)
-
-### Chroma Connect
-
-[`17504067262Up4yI73RazerChromaBroadcasterSetup_v3.10.0630.062015.exe`](https://cdn.razersynapse.com/17504067262Up4yI73RazerChromaBroadcasterSetup_v3.10.0630.062015.exe)
-
-### Chroma Visualizer
-
-[`1729826065qNdUxo0URazerAudioVisualizerSetup_v3.9.1130.102510.exe`](https://cdn.razersynapse.com/1729826065qNdUxo0URazerAudioVisualizerSetup_v3.9.1130.102510.exe)
-
-### Hue
-
-[`1750405942xTCFDCgDRazerPhilipsHueSetup_v3.10.0630.062011.exe`](https://cdn.razersynapse.com/1750405942xTCFDCgDRazerPhilipsHueSetup_v3.10.0630.062011.exe)
-
-### Macro
-
-[`1706004329lTqnjXKVRazerMacroSetup_v3.9.0131.012317.exe`](https://cdn.razersynapse.com/1706004329lTqnjXKVRazerMacroSetup_v3.9.0131.012317.exe)
-
-# Separate apps
-
-### Razer Cortex
-
-[`1773049540o62c3X9uRazerCortexSetup_11.7.1.25.exe`](https://cdn.razersynapse.com/1773049540o62c3X9uRazerCortexSetup_11.7.1.25.exe)
-
-### Razer Axon
-
-[`17690460849vT1R67QRazerAxonSetup_2.6.2.0.exe`](https://cdn.razersynapse.com/17690460849vT1R67QRazerAxonSetup_2.6.2.0.exe)
-
-### THX Spatial Audio
-
-[`1713509834mVPLCvYPTHXSpatialAudioSetup-v2.0.1.15.exe`](https://cdn.razersynapse.com/1713509834mVPLCvYPTHXSpatialAudioSetup-v2.0.1.15.exe)
-
-### Streamer Companion App
-
-[`1700202653705F2WD7StreamerCompanionAppSetup-v2.0.1.12.exe`](https://cdn.razersynapse.com/1700202653705F2WD7StreamerCompanionAppSetup-v2.0.1.12.exe)
-
-### Razer Virtual Ring Light
-
-[`1713511449gj1UXRTEVirtualRingLight-v2.0.0.24.exe`](https://cdn.razersynapse.com/1713511449gj1UXRTEVirtualRingLight-v2.0.0.24.exe)
+| App                      | Downloads                                                                                                                                             |
+| ------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Razer Cortex             | [`1773049540o62c3X9uRazerCortexSetup_11.7.1.25.exe`](https://cdn.razersynapse.com/1773049540o62c3X9uRazerCortexSetup_11.7.1.25.exe)                   |
+| Razer Axon               | [`17690460849vT1R67QRazerAxonSetup_2.6.2.0.exe`](https://cdn.razersynapse.com/17690460849vT1R67QRazerAxonSetup_2.6.2.0.exe)                           |
+| THX Spatial Audio        | [`1713509834mVPLCvYPTHXSpatialAudioSetup-v2.0.1.15.exe`](https://cdn.razersynapse.com/1713509834mVPLCvYPTHXSpatialAudioSetup-v2.0.1.15.exe)           |
+| Streamer Companion App   | [`1700202653705F2WD7StreamerCompanionAppSetup-v2.0.1.12.exe`](https://cdn.razersynapse.com/1700202653705F2WD7StreamerCompanionAppSetup-v2.0.1.12.exe) |
+| Razer Virtual Ring Light | [`1713511449gj1UXRTEVirtualRingLight-v2.0.0.24.exe`](https://cdn.razersynapse.com/1713511449gj1UXRTEVirtualRingLight-v2.0.0.24.exe)                   |
 
 # Devices
 
