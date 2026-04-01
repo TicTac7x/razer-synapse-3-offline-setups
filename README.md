@@ -42,6 +42,8 @@ Install the setups in the given order.
 
 # Devices
 
+For devices with multiple variants install all the regular setups + the variant specific setup.
+
 ## Mice
 
 | Device                   | ID  | Downloads                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
