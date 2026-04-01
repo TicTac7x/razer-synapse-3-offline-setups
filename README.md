@@ -9,7 +9,7 @@ All listed files are currently downloadable directly from Razer servers and ther
 Install the setups in the given order.  
 **NB! Restart PC afterwards.**
 
-## Synpase 3 Core Components
+## Core Components
 
 | Component                  | Downloads                                                                                                                                                                             |
 | :------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
