@@ -28,6 +28,7 @@ Manually installed modules might not appear in the Synapse. To make them appear,
 | :---------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | Alexa             | [`1706157786vdp2jgQMRazerAlexaSetup_v3.9.0131.012511.exe`](https://cdn.razersynapse.com/1706157786vdp2jgQMRazerAlexaSetup_v3.9.0131.012511.exe)                           |
 | Chroma Connect    | [`17504067262Up4yI73RazerChromaBroadcasterSetup_v3.10.0630.062015.exe`](https://cdn.razersynapse.com/17504067262Up4yI73RazerChromaBroadcasterSetup_v3.10.0630.062015.exe) |
+| Chroma Studio     | [`1718863664EiZeyh8ZRazerChromaStudioSetup_v3.9.0630.062001.exe`](https://cdn.razersynapse.com/1718863664EiZeyh8ZRazerChromaStudioSetup_v3.9.0630.062001.exe)             |
 | Chroma Visualizer | [`1729826065qNdUxo0URazerAudioVisualizerSetup_v3.9.1130.102510.exe`](https://cdn.razersynapse.com/1729826065qNdUxo0URazerAudioVisualizerSetup_v3.9.1130.102510.exe)       |
 | Hue               | [`1750405942xTCFDCgDRazerPhilipsHueSetup_v3.10.0630.062011.exe`](https://cdn.razersynapse.com/1750405942xTCFDCgDRazerPhilipsHueSetup_v3.10.0630.062011.exe)               |
 | Macro             | [`1706004329lTqnjXKVRazerMacroSetup_v3.9.0131.012317.exe`](https://cdn.razersynapse.com/1706004329lTqnjXKVRazerMacroSetup_v3.9.0131.012317.exe)                           |
