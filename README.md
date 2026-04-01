@@ -73,251 +73,71 @@ Install the setups in the given order.
 
 # Devices
 
-### Viper V3 Pro - 193
-
-[`1731308897L0Tq9lZhRazerWilmaT1Setup_v3.9.1130.111111.exe`](https://cdn.razersynapse.com/1731308897L0Tq9lZhRazerWilmaT1Setup_v3.9.1130.111111.exe)
-[`1721955728BzvfcfqXRazerVideoPlayerSetup_v3.9.0806.072600.exe`](https://cdn.razersynapse.com/1721955728BzvfcfqXRazerVideoPlayerSetup_v3.9.0806.072600.exe)
-
----
-
-### Viper V2 Pro - 166
-
-[`1728899625ttWPvEueRazerAvaT1RefreshSetup_v3.9.1130.101413.exe`](https://cdn.razersynapse.com/1728899625ttWPvEueRazerAvaT1RefreshSetup_v3.9.1130.101413.exe)
-
-#### White
-
-[`1700097705eGeZUvZLRazer_165_128_Setup_v3.8.1115.111518.exe`](https://cdn.razersynapse.com/1700097705eGeZUvZLRazer_165_128_Setup_v3.8.1115.111518.exe)
-
----
-
-### Mouse Dock Chroma Pro - 164
-
-[`1709865219YzEla35XRazer_164_0_Setup_v3.9.0331.030802.exe`](https://cdn.razersynapse.com/1709865219YzEla35XRazer_164_0_Setup_v3.9.0331.030802.exe)
-
----
-
-### Mouse Dock Chroma - 126
-
-[`16596710828QZePnh7Razer_126_0_Setup_v3.7.0830.080506.exe`](https://cdn.razersynapse.com/16596710828QZePnh7Razer_126_0_Setup_v3.7.0830.080506.exe)
-
----
-
-### Viper Ultimate - 123
-
-[`17095084589cuAlQVYRazerAvaT1Setup_v3.9.0331.030402.exe`](https://cdn.razersynapse.com/17095084589cuAlQVYRazerAvaT1Setup_v3.9.0331.030402.exe)
-
----
-
-### Viper - 120
-
-[`1709521565mBXtAuH9Razer_120_0_Setup_v3.9.0331.030402.exe`](https://cdn.razersynapse.com/1709521565mBXtAuH9Razer_120_0_Setup_v3.9.0331.030402.exe)
-
----
-
-### Lancehead TE - 96
-
-[`17188641503zdAU99IRazerLanceheadTESetup_v3.9.0630.062001.exe`](https://cdn.razersynapse.com/17188641503zdAU99IRazerLanceheadTESetup_v3.9.0630.062001.exe)
-
-#### White
-
-[`1606793997HFy6xCfVRazerLanceheadTournamentEditionWhiteSetup_v3.5.1215.120103.exe`](https://cdn.razersynapse.com/1606793997HFy6xCfVRazerLanceheadTournamentEditionWhiteSetup_v3.5.1215.120103.exe)
-
-#### Gunmetal
-
-[`1606793484jASeBzLwRazerLanceheadTournamentEditionGunmetalSetup_v3.5.1215.120103.exe`](https://cdn.razersynapse.com/1606793484jASeBzLwRazerLanceheadTournamentEditionGunmetalSetup_v3.5.1215.120103.exe)
-
----
-
-### Basilisk V3 X Hyperspeed - 185
-
-[`1724809699kWbIYvLMRazer_185_0Setup_v3.9.0915.082723.exe`](https://cdn.razersynapse.com/1724809699kWbIYvLMRazer_185_0Setup_v3.9.0915.082723.exe)
-
----
-
-### Basilisk V3 Pro - 170
-
-[`1728956444pB9YeDjHRazer_170_0_Setup_v3.9.1130.101506.exe`](https://cdn.razersynapse.com/1728956444pB9YeDjHRazer_170_0_Setup_v3.9.1130.101506.exe)
-
----
-
-### Basilisk V3 - 153
-
-[`17206526984mre4EBMRazer_153_0_Setup_v3.9.0630.071101.exe`](https://cdn.razersynapse.com/17206526984mre4EBMRazer_153_0_Setup_v3.9.0630.071101.exe)
-
-#### White
-
-[`1700097901D8bMq3iXRazer_170_128_Setup_v3.8.1115.111518.exe`](https://cdn.razersynapse.com/1700097901D8bMq3iXRazer_170_128_Setup_v3.8.1115.111518.exe)
-
----
-
-### Deathadder V3 Pro - 182
-
-[`1728899625Euq9w9FwRazer_182_0_Setup_v3.9.1130.101413.exe`](https://cdn.razersynapse.com/1728899625Euq9w9FwRazer_182_0_Setup_v3.9.1130.101413.exe)
-
----
-
-### Deathadder V3 - 178
-
-[`1709510643nTaK4QmfRazer_178_0_Setup_v3.9.0331.030402.exe`](https://cdn.razersynapse.com/1709510643nTaK4QmfRazer_178_0_Setup_v3.9.0331.030402.exe)
-
----
-
-### Deathadder V2 Pro - 124
-
-[`1718935069TB4swd7fRazer_124_0_Setup_v3.9.0630.062101.exe`](https://cdn.razersynapse.com/1718935069TB4swd7fRazer_124_0_Setup_v3.9.0630.062101.exe)
-
----
-
-### Deathadder V2 - 132
-
-[`1697444917paJ053ezRazer_132_0_Setup_v3.8.1030.101615.exe`](https://cdn.razersynapse.com/1697444917paJ053ezRazer_132_0_Setup_v3.8.1030.101615.exe)
-
----
-
-### Deathadder Essential - 152
-
-[`1709522147PNhr27xLRazer_152_0_Setup_v3.9.0331.030402.exe`](https://cdn.razersynapse.com/1709522147PNhr27xLRazer_152_0_Setup_v3.9.0331.030402.exe)
-[`168932523996CkX8X0Razer_110_0Setup_v3.8.0731.071415.exe`](https://cdn.razersynapse.com/168932523996CkX8X0Razer_110_0Setup_v3.8.0731.071415.exe)
-
-#### White
-
-[`1661153852Hr4RfK99Razer_152_128_Setup_v3.7.0830.082213.exe`](https://cdn.razersynapse.com/1661153852Hr4RfK99Razer_152_128_Setup_v3.7.0830.082213.exe)
-
----
-
-### Naga V2 Pro - 167
-
-[`1709508222Kov7zCpDRazer_167_0_Setup_v3.9.0331.030402.exe`](https://cdn.razersynapse.com/1709508222Kov7zCpDRazer_167_0_Setup_v3.9.0331.030402.exe)
-
----
-
-### Naga X - 150
-
-[`1709508458lS4C4mXvRazer_150_0_Setup_v3.9.0331.030402.exe`](https://cdn.razersynapse.com/1709508458lS4C4mXvRazer_150_0_Setup_v3.9.0331.030402.exe)
-
----
-
-### Naga Trinitiy
-
-[`1709511092Aoc6w5mhRazerNagaTrinitySetup_v3.9.0331.030402.exe`](https://cdn.razersynapse.com/1709511092Aoc6w5mhRazerNagaTrinitySetup_v3.9.0331.030402.exe)
-
----
-
-### Firefly
-
-[`1641269806H4UehrlJRazerFireflySetup_v3.7.0131.010403.exe`](https://cdn.razersynapse.com/1641269806H4UehrlJRazerFireflySetup_v3.7.0131.010403.exe)
-
----
-
-### Kyio Pro - 3589
-
-[`1718863334M3GTJDf8Razer_3589_0Setup_v3.9.0630.062001.exe`](https://cdn.razersynapse.com/1718863334M3GTJDf8Razer_3589_0Setup_v3.9.0630.062001.exe)  
-[`1679318087NEihfZk0Razer_3589_128Setup_v3.8.0330.032018.exe`](https://cdn.razersynapse.com/1679318087NEihfZk0Razer_3589_128Setup_v3.8.0330.032018.exe)
-
----
-
-### Kyio - 3587
-
-[`1679318087sPTt8OQMRazer_3587_0Setup_v3.8.0330.032018.exe`](https://cdn.razersynapse.com/1679318087sPTt8OQMRazer_3587_0Setup_v3.8.0330.032018.exe)
-
----
-
-### Chroma Adressable RGB Controller
-
-[`171885005757IZDNTaRazerGlitterSetup_v3.9.0630.062001.exe`](https://cdn.razersynapse.com/171885005757IZDNTaRazerGlitterSetup_v3.9.0630.062001.exe)
-
----
-
-### Blackshark V2 Pro White 2022 - 1365
-
-[`1719282065yPnyC0DPRazer_1365_0Setup_v3.9.0630.062502.exe`](https://cdn.razersynapse.com/1719282065yPnyC0DPRazer_1365_0Setup_v3.9.0630.062502.exe)
-[`1721955728BzvfcfqXRazerVideoPlayerSetup_v3.9.0806.072600.exe`](https://cdn.razersynapse.com/1721955728BzvfcfqXRazerVideoPlayerSetup_v3.9.0806.072600.exe)  
-[`1722242219cwLxfYYdRazerGameProfileSetup_v3.9.0806.072915.exe`](https://cdn.razersynapse.com/1722242219cwLxfYYdRazerGameProfileSetup_v3.9.0806.072915.exe)  
-[`16412751943jMgByhHRazerCalibrationFilesSetup_v3.7.0131.010403.exe`](https://cdn.razersynapse.com/16412751943jMgByhHRazerCalibrationFilesSetup_v3.7.0131.010403.exe)
-
----
-
-### Blackshark V2 Pro - 1320
-
-[`171928206585Yp734rRazer_1320_0Setup_v3.9.0630.062502.exe`](https://cdn.razersynapse.com/171928206585Yp734rRazer_1320_0Setup_v3.9.0630.062502.exe)  
-[`1721955728BzvfcfqXRazerVideoPlayerSetup_v3.9.0806.072600.exe`](https://cdn.razersynapse.com/1721955728BzvfcfqXRazerVideoPlayerSetup_v3.9.0806.072600.exe)  
-[`1722242219cwLxfYYdRazerGameProfileSetup_v3.9.0806.072915.exe`](https://cdn.razersynapse.com/1722242219cwLxfYYdRazerGameProfileSetup_v3.9.0806.072915.exe)  
-[`16412751943jMgByhHRazerCalibrationFilesSetup_v3.7.0131.010403.exe`](https://cdn.razersynapse.com/16412751943jMgByhHRazerCalibrationFilesSetup_v3.7.0131.010403.exe)
-
-#### White 2021
-
-[`1700733456QqgIfTeGRazer_1320_129Setup_v3.8.1120.112315.exe`](https://cdn.razersynapse.com/1700733456QqgIfTeGRazer_1320_129Setup_v3.8.1120.112315.exe)
-
----
-
-### Kraken V3 Pro - 1324
-
-[`17192813387spCyh47Razer_1324_0Setup_v3.9.0630.062502.exe`](https://cdn.razersynapse.com/17192813387spCyh47Razer_1324_0Setup_v3.9.0630.062502.exe)  
-[`1721955728BzvfcfqXRazerVideoPlayerSetup_v3.9.0806.072600.exe`](https://cdn.razersynapse.com/1721955728BzvfcfqXRazerVideoPlayerSetup_v3.9.0806.072600.exe)  
-[`1722242219cwLxfYYdRazerGameProfileSetup_v3.9.0806.072915.exe`](https://cdn.razersynapse.com/1722242219cwLxfYYdRazerGameProfileSetup_v3.9.0806.072915.exe)  
-[`16412751943jMgByhHRazerCalibrationFilesSetup_v3.7.0131.010403.exe`](https://cdn.razersynapse.com/16412751943jMgByhHRazerCalibrationFilesSetup_v3.7.0131.010403.exe)
-
----
-
-### Kraken Ultimate - 1319
-
-[`17192813385HAl11uKRazer_1319_0Setup_v3.9.0630.062502.exe`](https://cdn.razersynapse.com/17192813385HAl11uKRazer_1319_0Setup_v3.9.0630.062502.exe)  
-[`1721955728BzvfcfqXRazerVideoPlayerSetup_v3.9.0806.072600.exe`](https://cdn.razersynapse.com/1721955728BzvfcfqXRazerVideoPlayerSetup_v3.9.0806.072600.exe)  
-[`1722242219cwLxfYYdRazerGameProfileSetup_v3.9.0806.072915.exe`](https://cdn.razersynapse.com/1722242219cwLxfYYdRazerGameProfileSetup_v3.9.0806.072915.exe)  
-[`16412751943jMgByhHRazerCalibrationFilesSetup_v3.7.0131.010403.exe`](https://cdn.razersynapse.com/16412751943jMgByhHRazerCalibrationFilesSetup_v3.7.0131.010403.exe)
-
----
-
-### Kraken TE / USB Audio Controller - 1312
-
-[`1719280620NNCNjczdRazer_1312_0Setup_v3.9.0630.062502.exe`](https://cdn.razersynapse.com/1719280620NNCNjczdRazer_1312_0Setup_v3.9.0630.062502.exe)  
-[`1721955728BzvfcfqXRazerVideoPlayerSetup_v3.9.0806.072600.exe`](https://cdn.razersynapse.com/1721955728BzvfcfqXRazerVideoPlayerSetup_v3.9.0806.072600.exe)  
-[`1722242219cwLxfYYdRazerGameProfileSetup_v3.9.0806.072915.exe`](https://cdn.razersynapse.com/1722242219cwLxfYYdRazerGameProfileSetup_v3.9.0806.072915.exe)  
-[`16412751943jMgByhHRazerCalibrationFilesSetup_v3.7.0131.010403.exe`](https://cdn.razersynapse.com/16412751943jMgByhHRazerCalibrationFilesSetup_v3.7.0131.010403.exe)
-
----
-
-### Nari Ultimate - 1306
-
-[`1719282065zWL6Wq5xRazer_1306_0Setup_v3.9.0630.062502.exe`](https://cdn.razersynapse.com/1719282065zWL6Wq5xRazer_1306_0Setup_v3.9.0630.062502.exe)  
-[`1721955728BzvfcfqXRazerVideoPlayerSetup_v3.9.0806.072600.exe`](https://cdn.razersynapse.com/1721955728BzvfcfqXRazerVideoPlayerSetup_v3.9.0806.072600.exe)  
-[`1722242219cwLxfYYdRazerGameProfileSetup_v3.9.0806.072915.exe`](https://cdn.razersynapse.com/1722242219cwLxfYYdRazerGameProfileSetup_v3.9.0806.072915.exe)  
-[`16412751943jMgByhHRazerCalibrationFilesSetup_v3.7.0131.010403.exe`](https://cdn.razersynapse.com/16412751943jMgByhHRazerCalibrationFilesSetup_v3.7.0131.010403.exe)
-
----
-
-### Huntsman Elite - 550
-
-[`1709523061jGCJfGr4Razer_550_0Setup_v3.9.0331.030402.exe`](https://cdn.razersynapse.com/1709523061jGCJfGr4Razer_550_0Setup_v3.9.0331.030402.exe)
-
----
-
-### Tartarus Pro - 580
-
-[`1730080100psOH55kORazer_580_0_Setup_v3.9.1130.102806.exe`](https://cdn.razersynapse.com/1730080100psOH55kORazer_580_0_Setup_v3.9.1130.102806.exe)
-
----
-
-### Blackwidow V3 - 590
-
-[`1709510352iRabCGF5Razer_590_0_Setup_v3.9.0331.030402.exe`](https://cdn.razersynapse.com/1709510352iRabCGF5Razer_590_0_Setup_v3.9.0331.030402.exe)
-
----
-
-### Blackwidow V3 Mini Hyperspeed - 600
-
-[`1709624471HZeMNE1XRazer_600_0_Setup_v3.9.0331.030511.exe`](https://cdn.razersynapse.com/1709624471HZeMNE1XRazer_600_0_Setup_v3.9.0331.030511.exe)
-
----
-
-### BlackWidow TE Chroma V2 - 521
-
-[`1683595958D3ul6VyYRazer_521_0Setup_v3.8.0531.050902.exe`](https://cdn.razersynapse.com/1683595958D3ul6VyYRazer_521_0Setup_v3.8.0531.050902.exe)  
-[`16276198892wagB8RNRazer_521_128Setup_v3.6.0815.073010.exe`](https://cdn.razersynapse.com/16276198892wagB8RNRazer_521_128Setup_v3.6.0815.073010.exe)  
-[`1641907259XZRXcr3xRazer_521_129Setup_v3.7.0131.011103.exe`](https://cdn.razersynapse.com/1641907259XZRXcr3xRazer_521_129Setup_v3.7.0131.011103.exe)
-
----
-
-### Blade 15 2021 - 623
-
-[`1612165712YbhXrMpFRazer_623_0_Setup_v3.6.0131.020115.exe`](https://cdn.razersynapse.com/1612165712YbhXrMpFRazer_623_0_Setup_v3.6.0131.020115.exe)
+## Mice
+
+| Device                   | ID  | Downloads                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| ------------------------ | --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Viper V3 Pro             | 193 | [`1731308897L0Tq9lZhRazerWilmaT1Setup_v3.9.1130.111111.exe`](https://cdn.razersynapse.com/1731308897L0Tq9lZhRazerWilmaT1Setup_v3.9.1130.111111.exe)<br>[`1721955728BzvfcfqXRazerVideoPlayerSetup_v3.9.0806.072600.exe`](https://cdn.razersynapse.com/1721955728BzvfcfqXRazerVideoPlayerSetup_v3.9.0806.072600.exe)                                                                                                                                                                                                                                                                               |
+| Viper V2 Pro             | 166 | [`1728899625ttWPvEueRazerAvaT1RefreshSetup_v3.9.1130.101413.exe`](https://cdn.razersynapse.com/1728899625ttWPvEueRazerAvaT1RefreshSetup_v3.9.1130.101413.exe)<br>White: [`1700097705eGeZUvZLRazer_165_128_Setup_v3.8.1115.111518.exe`](https://cdn.razersynapse.com/1700097705eGeZUvZLRazer_165_128_Setup_v3.8.1115.111518.exe)                                                                                                                                                                                                                                                                  |
+| Viper Ultimate           | 123 | [`17095084589cuAlQVYRazerAvaT1Setup_v3.9.0331.030402.exe`](https://cdn.razersynapse.com/17095084589cuAlQVYRazerAvaT1Setup_v3.9.0331.030402.exe)                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| Viper                    | 120 | [`1709521565mBXtAuH9Razer_120_0_Setup_v3.9.0331.030402.exe`](https://cdn.razersynapse.com/1709521565mBXtAuH9Razer_120_0_Setup_v3.9.0331.030402.exe)                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| Lancehead TE             | 96  | [`17188641503zdAU99IRazerLanceheadTESetup_v3.9.0630.062001.exe`](https://cdn.razersynapse.com/17188641503zdAU99IRazerLanceheadTESetup_v3.9.0630.062001.exe)<br>White: [`1606793997HFy6xCfVRazerLanceheadTournamentEditionWhiteSetup_v3.5.1215.120103.exe`](https://cdn.razersynapse.com/1606793997HFy6xCfVRazerLanceheadTournamentEditionWhiteSetup_v3.5.1215.120103.exe)<br>Gunmetal: [`1606793484jASeBzLwRazerLanceheadTournamentEditionGunmetalSetup_v3.5.1215.120103.exe`](https://cdn.razersynapse.com/1606793484jASeBzLwRazerLanceheadTournamentEditionGunmetalSetup_v3.5.1215.120103.exe) |
+| Basilisk V3 X Hyperspeed | 185 | [`1724809699kWbIYvLMRazer_185_0Setup_v3.9.0915.082723.exe`](https://cdn.razersynapse.com/1724809699kWbIYvLMRazer_185_0Setup_v3.9.0915.082723.exe)                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| Basilisk V3 Pro          | 170 | [`1728956444pB9YeDjHRazer_170_0_Setup_v3.9.1130.101506.exe`](https://cdn.razersynapse.com/1728956444pB9YeDjHRazer_170_0_Setup_v3.9.1130.101506.exe)                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| Basilisk V3              | 153 | [`17206526984mre4EBMRazer_153_0_Setup_v3.9.0630.071101.exe`](https://cdn.razersynapse.com/17206526984mre4EBMRazer_153_0_Setup_v3.9.0630.071101.exe)<br>White: [`1700097901D8bMq3iXRazer_170_128_Setup_v3.8.1115.111518.exe`](https://cdn.razersynapse.com/1700097901D8bMq3iXRazer_170_128_Setup_v3.8.1115.111518.exe)                                                                                                                                                                                                                                                                            |
+| Deathadder V3 Pro        | 182 | [`1728899625Euq9w9FwRazer_182_0_Setup_v3.9.1130.101413.exe`](https://cdn.razersynapse.com/1728899625Euq9w9FwRazer_182_0_Setup_v3.9.1130.101413.exe)                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| Deathadder V3            | 178 | [`1709510643nTaK4QmfRazer_178_0_Setup_v3.9.0331.030402.exe`](https://cdn.razersynapse.com/1709510643nTaK4QmfRazer_178_0_Setup_v3.9.0331.030402.exe)                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| Deathadder V2 Pro        | 124 | [`1718935069TB4swd7fRazer_124_0_Setup_v3.9.0630.062101.exe`](https://cdn.razersynapse.com/1718935069TB4swd7fRazer_124_0_Setup_v3.9.0630.062101.exe)                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| Deathadder V2            | 132 | [`1697444917paJ053ezRazer_132_0_Setup_v3.8.1030.101615.exe`](https://cdn.razersynapse.com/1697444917paJ053ezRazer_132_0_Setup_v3.8.1030.101615.exe)                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| Deathadder Essential     | 152 | [`1709522147PNhr27xLRazer_152_0_Setup_v3.9.0331.030402.exe`](https://cdn.razersynapse.com/1709522147PNhr27xLRazer_152_0_Setup_v3.9.0331.030402.exe)<br>[`168932523996CkX8X0Razer_110_0Setup_v3.8.0731.071415.exe`](https://cdn.razersynapse.com/168932523996CkX8X0Razer_110_0Setup_v3.8.0731.071415.exe)<br>White: [`1661153852Hr4RfK99Razer_152_128_Setup_v3.7.0830.082213.exe`](https://cdn.razersynapse.com/1661153852Hr4RfK99Razer_152_128_Setup_v3.7.0830.082213.exe)                                                                                                                       |
+| Naga V2 Pro              | 167 | [`1709508222Kov7zCpDRazer_167_0_Setup_v3.9.0331.030402.exe`](https://cdn.razersynapse.com/1709508222Kov7zCpDRazer_167_0_Setup_v3.9.0331.030402.exe)                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| Naga X                   | 150 | [`1709508458lS4C4mXvRazer_150_0_Setup_v3.9.0331.030402.exe`](https://cdn.razersynapse.com/1709508458lS4C4mXvRazer_150_0_Setup_v3.9.0331.030402.exe)                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| Naga Trinity             | -   | [`1709511092Aoc6w5mhRazerNagaTrinitySetup_v3.9.0331.030402.exe`](https://cdn.razersynapse.com/1709511092Aoc6w5mhRazerNagaTrinitySetup_v3.9.0331.030402.exe)                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+
+## Mousedocks
+
+| Device                | ID  | Downloads                                                                                                                                           |
+| --------------------- | --- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Mouse Dock Chroma Pro | 164 | [`1709865219YzEla35XRazer_164_0_Setup_v3.9.0331.030802.exe`](https://cdn.razersynapse.com/1709865219YzEla35XRazer_164_0_Setup_v3.9.0331.030802.exe) |
+| Mouse Dock Chroma     | 126 | [`16596710828QZePnh7Razer_126_0_Setup_v3.7.0830.080506.exe`](https://cdn.razersynapse.com/16596710828QZePnh7Razer_126_0_Setup_v3.7.0830.080506.exe) |
+
+## Mousepads
+
+| Device                            | ID  | Downloads                                                                                                                                           |
+| --------------------------------- | --- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Firefly                           | -   | [`1641269806H4UehrlJRazerFireflySetup_v3.7.0131.010403.exe`](https://cdn.razersynapse.com/1641269806H4UehrlJRazerFireflySetup_v3.7.0131.010403.exe) |
+| Chroma Addressable RGB Controller | -   | [`171885005757IZDNTaRazerGlitterSetup_v3.9.0630.062001.exe`](https://cdn.razersynapse.com/171885005757IZDNTaRazerGlitterSetup_v3.9.0630.062001.exe) |
+
+## Headsets
+
+| Device                           | ID   | Downloads                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| -------------------------------- | ---- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Blackshark V2 Pro White 2022     | 1365 | [`1719282065yPnyC0DPRazer_1365_0Setup_v3.9.0630.062502.exe`](https://cdn.razersynapse.com/1719282065yPnyC0DPRazer_1365_0Setup_v3.9.0630.062502.exe)<br>[`1721955728BzvfcfqXRazerVideoPlayerSetup_v3.9.0806.072600.exe`](https://cdn.razersynapse.com/1721955728BzvfcfqXRazerVideoPlayerSetup_v3.9.0806.072600.exe)<br>[`1722242219cwLxfYYdRazerGameProfileSetup_v3.9.0806.072915.exe`](https://cdn.razersynapse.com/1722242219cwLxfYYdRazerGameProfileSetup_v3.9.0806.072915.exe)<br>[`16412751943jMgByhHRazerCalibrationFilesSetup_v3.7.0131.010403.exe`](https://cdn.razersynapse.com/16412751943jMgByhHRazerCalibrationFilesSetup_v3.7.0131.010403.exe)                                                                                                                                                                        |
+| Blackshark V2 Pro                | 1320 | [`171928206585Yp734rRazer_1320_0Setup_v3.9.0630.062502.exe`](https://cdn.razersynapse.com/171928206585Yp734rRazer_1320_0Setup_v3.9.0630.062502.exe)<br>[`1721955728BzvfcfqXRazerVideoPlayerSetup_v3.9.0806.072600.exe`](https://cdn.razersynapse.com/1721955728BzvfcfqXRazerVideoPlayerSetup_v3.9.0806.072600.exe)<br>[`1722242219cwLxfYYdRazerGameProfileSetup_v3.9.0806.072915.exe`](https://cdn.razersynapse.com/1722242219cwLxfYYdRazerGameProfileSetup_v3.9.0806.072915.exe)<br>[`16412751943jMgByhHRazerCalibrationFilesSetup_v3.7.0131.010403.exe`](https://cdn.razersynapse.com/16412751943jMgByhHRazerCalibrationFilesSetup_v3.7.0131.010403.exe)<br>White 2021: [`1700733456QqgIfTeGRazer_1320_129Setup_v3.8.1120.112315.exe`](https://cdn.razersynapse.com/1700733456QqgIfTeGRazer_1320_129Setup_v3.8.1120.112315.exe) |
+| Kraken V3 Pro                    | 1324 | [`17192813387spCyh47Razer_1324_0Setup_v3.9.0630.062502.exe`](https://cdn.razersynapse.com/17192813387spCyh47Razer_1324_0Setup_v3.9.0630.062502.exe)<br>[`1721955728BzvfcfqXRazerVideoPlayerSetup_v3.9.0806.072600.exe`](https://cdn.razersynapse.com/1721955728BzvfcfqXRazerVideoPlayerSetup_v3.9.0806.072600.exe)<br>[`1722242219cwLxfYYdRazerGameProfileSetup_v3.9.0806.072915.exe`](https://cdn.razersynapse.com/1722242219cwLxfYYdRazerGameProfileSetup_v3.9.0806.072915.exe)<br>[`16412751943jMgByhHRazerCalibrationFilesSetup_v3.7.0131.010403.exe`](https://cdn.razersynapse.com/16412751943jMgByhHRazerCalibrationFilesSetup_v3.7.0131.010403.exe)                                                                                                                                                                        |
+| Kraken Ultimate                  | 1319 | [`17192813385HAl11uKRazer_1319_0Setup_v3.9.0630.062502.exe`](https://cdn.razersynapse.com/17192813385HAl11uKRazer_1319_0Setup_v3.9.0630.062502.exe)<br>[`1721955728BzvfcfqXRazerVideoPlayerSetup_v3.9.0806.072600.exe`](https://cdn.razersynapse.com/1721955728BzvfcfqXRazerVideoPlayerSetup_v3.9.0806.072600.exe)<br>[`1722242219cwLxfYYdRazerGameProfileSetup_v3.9.0806.072915.exe`](https://cdn.razersynapse.com/1722242219cwLxfYYdRazerGameProfileSetup_v3.9.0806.072915.exe)<br>[`16412751943jMgByhHRazerCalibrationFilesSetup_v3.7.0131.010403.exe`](https://cdn.razersynapse.com/16412751943jMgByhHRazerCalibrationFilesSetup_v3.7.0131.010403.exe)                                                                                                                                                                        |
+| Kraken TE / USB Audio Controller | 1312 | [`1719280620NNCNjczdRazer_1312_0Setup_v3.9.0630.062502.exe`](https://cdn.razersynapse.com/1719280620NNCNjczdRazer_1312_0Setup_v3.9.0630.062502.exe)<br>[`1721955728BzvfcfqXRazerVideoPlayerSetup_v3.9.0806.072600.exe`](https://cdn.razersynapse.com/1721955728BzvfcfqXRazerVideoPlayerSetup_v3.9.0806.072600.exe)<br>[`1722242219cwLxfYYdRazerGameProfileSetup_v3.9.0806.072915.exe`](https://cdn.razersynapse.com/1722242219cwLxfYYdRazerGameProfileSetup_v3.9.0806.072915.exe)<br>[`16412751943jMgByhHRazerCalibrationFilesSetup_v3.7.0131.010403.exe`](https://cdn.razersynapse.com/16412751943jMgByhHRazerCalibrationFilesSetup_v3.7.0131.010403.exe)                                                                                                                                                                        |
+| Nari Ultimate                    | 1306 | [`1719282065zWL6Wq5xRazer_1306_0Setup_v3.9.0630.062502.exe`](https://cdn.razersynapse.com/1719282065zWL6Wq5xRazer_1306_0Setup_v3.9.0630.062502.exe)<br>[`1721955728BzvfcfqXRazerVideoPlayerSetup_v3.9.0806.072600.exe`](https://cdn.razersynapse.com/1721955728BzvfcfqXRazerVideoPlayerSetup_v3.9.0806.072600.exe)<br>[`1722242219cwLxfYYdRazerGameProfileSetup_v3.9.0806.072915.exe`](https://cdn.razersynapse.com/1722242219cwLxfYYdRazerGameProfileSetup_v3.9.0806.072915.exe)<br>[`16412751943jMgByhHRazerCalibrationFilesSetup_v3.7.0131.010403.exe`](https://cdn.razersynapse.com/16412751943jMgByhHRazerCalibrationFilesSetup_v3.7.0131.010403.exe)                                                                                                                                                                        |
+
+## Keyboards
+
+| Device                        | ID  | Downloads                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| ----------------------------- | --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Huntsman Elite                | 550 | [`1709523061jGCJfGr4Razer_550_0Setup_v3.9.0331.030402.exe`](https://cdn.razersynapse.com/1709523061jGCJfGr4Razer_550_0Setup_v3.9.0331.030402.exe)                                                                                                                                                                                                                                                                                                                   |
+| Tartarus Pro                  | 580 | [`1730080100psOH55kORazer_580_0_Setup_v3.9.1130.102806.exe`](https://cdn.razersynapse.com/1730080100psOH55kORazer_580_0_Setup_v3.9.1130.102806.exe)                                                                                                                                                                                                                                                                                                                 |
+| Blackwidow V3                 | 590 | [`1709510352iRabCGF5Razer_590_0_Setup_v3.9.0331.030402.exe`](https://cdn.razersynapse.com/1709510352iRabCGF5Razer_590_0_Setup_v3.9.0331.030402.exe)                                                                                                                                                                                                                                                                                                                 |
+| Blackwidow V3 Mini Hyperspeed | 600 | [`1709624471HZeMNE1XRazer_600_0_Setup_v3.9.0331.030511.exe`](https://cdn.razersynapse.com/1709624471HZeMNE1XRazer_600_0_Setup_v3.9.0331.030511.exe)                                                                                                                                                                                                                                                                                                                 |
+| BlackWidow TE Chroma V2       | 521 | [`1683595958D3ul6VyYRazer_521_0Setup_v3.8.0531.050902.exe`](https://cdn.razersynapse.com/1683595958D3ul6VyYRazer_521_0Setup_v3.8.0531.050902.exe)<br>[`16276198892wagB8RNRazer_521_128Setup_v3.6.0815.073010.exe`](https://cdn.razersynapse.com/16276198892wagB8RNRazer_521_128Setup_v3.6.0815.073010.exe)<br>[`1641907259XZRXcr3xRazer_521_129Setup_v3.7.0131.011103.exe`](https://cdn.razersynapse.com/1641907259XZRXcr3xRazer_521_129Setup_v3.7.0131.011103.exe) |
+
+## Cameras
+
+| Device   | ID   | Downloads                                                                                                                                                                                                                                                                                                      |
+| -------- | ---- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Kiyo Pro | 3589 | [`1718863334M3GTJDf8Razer_3589_0Setup_v3.9.0630.062001.exe`](https://cdn.razersynapse.com/1718863334M3GTJDf8Razer_3589_0Setup_v3.9.0630.062001.exe)<br>[`1679318087NEihfZk0Razer_3589_128Setup_v3.8.0330.032018.exe`](https://cdn.razersynapse.com/1679318087NEihfZk0Razer_3589_128Setup_v3.8.0330.032018.exe) |
+| Kiyo     | 3587 | [`1679318087sPTt8OQMRazer_3587_0Setup_v3.8.0330.032018.exe`](https://cdn.razersynapse.com/1679318087sPTt8OQMRazer_3587_0Setup_v3.8.0330.032018.exe)                                                                                                                                                            |
+
+## Systems
+
+| Device        | ID  | Downloads                                                                                                                                           |
+| ------------- | --- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Blade 15 2021 | 623 | [`1612165712YbhXrMpFRazer_623_0_Setup_v3.6.0131.020115.exe`](https://cdn.razersynapse.com/1612165712YbhXrMpFRazer_623_0_Setup_v3.6.0131.020115.exe) |
