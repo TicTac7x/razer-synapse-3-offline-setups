@@ -22,6 +22,8 @@ Install the setups in the given order.
 
 ## Optional Modules
 
+Manually installed modules might not appear in the Synapse. To make them appear, copy the modules manifests that you installed from the [`Manifest.xml`](./Manifest.xml) to `C:\ProgramData\Razer\Synapse3\Update\Manifest.xml`. The file provided in this repo has all the modules included in it.
+
 | Module            | Downloads                                                                                                                                                                 |
 | :---------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | Alexa             | [`1706157786vdp2jgQMRazerAlexaSetup_v3.9.0131.012511.exe`](https://cdn.razersynapse.com/1706157786vdp2jgQMRazerAlexaSetup_v3.9.0131.012511.exe)                           |

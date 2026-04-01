@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<ProductInfo>
+  <Modules>
+    <Module>
+      <Name>ALEXA</Name>
+      <Version>3.9.131.12511</Version>
+      <Mandatory>false</Mandatory>
+      <IconUrl></IconUrl>
+      <UninstallFilePath></UninstallFilePath>
+      <UninstallFilePathRegistryKey>
+        vZdBJ1jDXnlTO/wwnYediwBRS7J62/DDDYGaCq+r9FsKU5MLxT/gqjT/mlfORzmnG9f3Eilufuu8uNBtiwopDQ==</UninstallFilePathRegistryKey>
+      <UninstallFilePathRegistryValue>QnFYH52aMoCanAOzMjCtJQ==</UninstallFilePathRegistryValue>
+      <UninstallParameters>wmxeBX3VxmGoI1nsV1fYfg==</UninstallParameters>
+      <UninstallParametersRegistryKey></UninstallParametersRegistryKey>
+      <UninstallParametersRegistryValue></UninstallParametersRegistryValue>
+      <InstallLocationParameter>IJZ0DiUWJAWs0RF5NsdBYrZtyUDMez2JoBsjypWBPmo=</InstallLocationParameter>
+      <DisplayName>ALEXA</DisplayName>
+      <LocalizedDisplayName></LocalizedDisplayName>
+      <IconSources></IconSources>
+      <PostponedVersion />
+    </Module>
+    <Module>
+      <Name>CHROMABROADCASTER</Name>
+      <Version>3.10.630.62015</Version>
+      <Mandatory>false</Mandatory>
+      <IconUrl></IconUrl>
+      <UninstallFilePath></UninstallFilePath>
+      <UninstallFilePathRegistryKey>
+        vZdBJ1jDXnlTO/wwnYediwBRS7J62/DDDYGaCq+r9FsKU5MLxT/gqjT/mlfORzmn4Pk1PHjcGUAaNno5UKUhiAo0jYqfed06ijl96dYBKhA=</UninstallFilePathRegistryKey>
+      <UninstallFilePathRegistryValue>QnFYH52aMoCanAOzMjCtJQ==</UninstallFilePathRegistryValue>
+      <UninstallParameters>boSsrlrUBrjrYsobuGdjho6F1q73oDQu0UFGfidFl6A=</UninstallParameters>
+      <UninstallParametersRegistryKey></UninstallParametersRegistryKey>
+      <UninstallParametersRegistryValue></UninstallParametersRegistryValue>
+      <InstallLocationParameter>IJZ0DiUWJAWs0RF5NsdBYrZtyUDMez2JoBsjypWBPmo=</InstallLocationParameter>
+      <DisplayName>CHROMA CONNECT</DisplayName>
+      <LocalizedDisplayName></LocalizedDisplayName>
+      <IconSources></IconSources>
+      <PostponedVersion />
+    </Module>
+    <Module>
+      <Name>Razer Chroma Studio</Name>
+      <Version>3.9.630.62001</Version>
+      <Mandatory>false</Mandatory>
+      <IconUrl></IconUrl>
+      <UninstallFilePath></UninstallFilePath>
+      <UninstallFilePathRegistryKey>
+        vZdBJ1jDXnlTO/wwnYediwBRS7J62/DDDYGaCq+r9FsKU5MLxT/gqjT/mlfORzmnHCkNgw6/0IfGt4wDtKIWcA==</UninstallFilePathRegistryKey>
+      <UninstallFilePathRegistryValue>QnFYH52aMoCanAOzMjCtJQ==</UninstallFilePathRegistryValue>
+      <UninstallParameters>RLG4rbMHRAhTQNspdjgz2OQrPXzuwJnrfxfCg+/Bkac=</UninstallParameters>
+      <UninstallParametersRegistryKey></UninstallParametersRegistryKey>
+      <UninstallParametersRegistryValue></UninstallParametersRegistryValue>
+      <InstallLocationParameter>IJZ0DiUWJAWs0RF5NsdBYrZtyUDMez2JoBsjypWBPmo=</InstallLocationParameter>
+      <DisplayName>CHROMA STUDIO</DisplayName>
+      <LocalizedDisplayName></LocalizedDisplayName>
+      <IconSources></IconSources>
+      <PostponedVersion />
+    </Module>
+    <Module>
+      <Name>AUDIOVISUALIZER</Name>
+      <Version>3.9.1130.102510</Version>
+      <Mandatory>false</Mandatory>
+      <IconUrl></IconUrl>
+      <UninstallFilePath></UninstallFilePath>
+      <UninstallFilePathRegistryKey>
+        vZdBJ1jDXnlTO/wwnYediwBRS7J62/DDDYGaCq+r9FsKU5MLxT/gqjT/mlfORzmna2C/VipMEUimaTvhUhJ2dg==</UninstallFilePathRegistryKey>
+      <UninstallFilePathRegistryValue>QnFYH52aMoCanAOzMjCtJQ==</UninstallFilePathRegistryValue>
+      <UninstallParameters>5McRdQTE9YKwtu6skt4AeKJBT3x35D9ihUDdDGg4YoI=</UninstallParameters>
+      <UninstallParametersRegistryKey></UninstallParametersRegistryKey>
+      <UninstallParametersRegistryValue></UninstallParametersRegistryValue>
+      <InstallLocationParameter>IJZ0DiUWJAWs0RF5NsdBYrZtyUDMez2JoBsjypWBPmo=</InstallLocationParameter>
+      <DisplayName>CHROMA VISUALIZER</DisplayName>
+      <LocalizedDisplayName></LocalizedDisplayName>
+      <IconSources></IconSources>
+      <PostponedVersion />
+    </Module>
+    <Module>
+      <Name>HUE</Name>
+      <Version>3.10.630.62011</Version>
+      <Mandatory>false</Mandatory>
+      <IconUrl></IconUrl>
+      <UninstallFilePath></UninstallFilePath>
+      <UninstallFilePathRegistryKey>
+        vZdBJ1jDXnlTO/wwnYediwBRS7J62/DDDYGaCq+r9FsKU5MLxT/gqjT/mlfORzmnU0b9+qpk83EsKR+jNhZZEg==</UninstallFilePathRegistryKey>
+      <UninstallFilePathRegistryValue>QnFYH52aMoCanAOzMjCtJQ==</UninstallFilePathRegistryValue>
+      <UninstallParameters>JnEQtLJpLDavzTIKyK41vg==</UninstallParameters>
+      <UninstallParametersRegistryKey></UninstallParametersRegistryKey>
+      <UninstallParametersRegistryValue></UninstallParametersRegistryValue>
+      <InstallLocationParameter>IJZ0DiUWJAWs0RF5NsdBYrZtyUDMez2JoBsjypWBPmo=</InstallLocationParameter>
+      <DisplayName>HUE</DisplayName>
+      <LocalizedDisplayName></LocalizedDisplayName>
+      <IconSources></IconSources>
+      <PostponedVersion />
+    </Module>
+    <Module>
+      <Name>Razer Macro</Name>
+      <Version>3.9.131.12317</Version>
+      <Mandatory>false</Mandatory>
+      <IconUrl></IconUrl>
+      <UninstallFilePath></UninstallFilePath>
+      <UninstallFilePathRegistryKey>
+        vZdBJ1jDXnlTO/wwnYediwBRS7J62/DDDYGaCq+r9FsKU5MLxT/gqjT/mlfORzmnx7UsuLX744CImg21L/Xm/w==</UninstallFilePathRegistryKey>
+      <UninstallFilePathRegistryValue>QnFYH52aMoCanAOzMjCtJQ==</UninstallFilePathRegistryValue>
+      <UninstallParameters>6G8WdvZbG7VGbwgCsUHpUQ==</UninstallParameters>
+      <UninstallParametersRegistryKey></UninstallParametersRegistryKey>
+      <UninstallParametersRegistryValue></UninstallParametersRegistryValue>
+      <InstallLocationParameter>IJZ0DiUWJAWs0RF5NsdBYrZtyUDMez2JoBsjypWBPmo=</InstallLocationParameter>
+      <DisplayName>MACRO</DisplayName>
+      <LocalizedDisplayName></LocalizedDisplayName>
+      <IconSources></IconSources>
+      <PostponedVersion />
+    </Module>
+  </Modules>
+</ProductInfo>
