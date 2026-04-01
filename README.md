@@ -123,19 +123,19 @@ Install the setups in the given order.
 
 ---
 
-### Basilisk V3
+### Basilisk V3 - 153
 
 [`17206526984mre4EBMRazer_153_0_Setup_v3.9.0630.071101.exe`](./devices/basilisk-v3/17206526984mre4EBMRazer_153_0_Setup_v3.9.0630.071101.exe)
 
 ---
 
-### Deathadder V3
+### Deathadder V3 - 178
 
 [`1709510643nTaK4QmfRazer_178_0_Setup_v3.9.0331.030402.exe`](./devices/deathadder-v3/1709510643nTaK4QmfRazer_178_0_Setup_v3.9.0331.030402.exe)
 
 ---
 
-### Deathadder V2
+### Deathadder V2 - 132
 
 [`1697444917paJ053ezRazer_132_0_Setup_v3.8.1030.101615.exe`](./devices/deathadder-v2/1697444917paJ053ezRazer_132_0_Setup_v3.8.1030.101615.exe)
 
