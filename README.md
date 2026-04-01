@@ -86,6 +86,8 @@ Install the setups in the given order.
 
 ### Mouse Dock Chroma - 126
 
+[`16596710828QZePnh7Razer_126_0_Setup_v3.7.0830.080506.exe`](https://cdn.razersynapse.com/16596710828QZePnh7Razer_126_0_Setup_v3.7.0830.080506.exe)
+
 ---
 
 ### Viper Ultimate - 123
