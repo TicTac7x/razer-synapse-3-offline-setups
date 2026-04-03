@@ -6,8 +6,7 @@ Open `RazerInstaller.exe` without any Razer devices connected, this lets you ins
 
 All listed files are currently downloadable directly from Razer servers and therefore the links point to razer download servers instead of the files uploaded in here. The files uploaded here are only for backup purposes.
 
-Install the setups in the given order.  
-**NB! Restart PC afterwards.**
+Install the setups in the given order.
 
 ## Core Components
 
