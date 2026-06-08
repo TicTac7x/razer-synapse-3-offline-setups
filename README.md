@@ -21,7 +21,7 @@ Install the setups in the given order.
 
 ## Optional Modules
 
-Manually installed modules might not appear in the Synapse. To make them appear, copy the modules manifests that you installed from the [`Manifest.xml`](./Manifest.xml) to `C:\ProgramData\Razer\Synapse3\Update\Manifest.xml`. The file provided in this repo has all the modules included in it.
+Manually installed modules might not appear in the Synapse. To make them appear, copy the modules manifests that you installed from the [`Manifest.xml`](./Manifest.xml) to `C:\ProgramData\Razer\Synapse3\Update\Manifest.xml`. The file provided in this repo has all the modules included in it. You may also need to restart your computer after updating Manifest.xml.
 
 | Module            | Downloads                                                                                                                                                                 |
 | :---------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
